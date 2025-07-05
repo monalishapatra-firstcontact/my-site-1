@@ -16,7 +16,7 @@ const accordions = [
     expandedState: "expanded2",
     question: "Is my money safe?",
     answer: "Your money is protected in secure accounts..."
-  },
+  },  
   {
     msb: "#msb3",
     expandIcon: "#expandIcon3",
